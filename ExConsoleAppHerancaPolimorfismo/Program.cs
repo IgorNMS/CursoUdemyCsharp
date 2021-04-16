@@ -25,6 +25,13 @@ namespace ExConsoleAppHerancaPolimorfismo
                 int hours = int.Parse(Console.ReadLine());
                 Console.Write("Value per hour: ");
                 double valuePerHour = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+                /*
+                 * Polimorfismo
+                 *
+                 * E um recurso que permite que variaveis de mesmo tipo generico possam apontar para objetos
+                 * de tipos especificos diferentes, tendo assim comportamentos diferentes conforme cada tipo
+                 * especifico
+                 */
                 if (ch == 'y')
                 {
                     Console.Write("Additional charge: ");
