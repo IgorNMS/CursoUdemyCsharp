@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExConsoleAppHerancaPolimorf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAbstratos", "MetodosAbstratos\MetodosAbstratos.csproj", "{0F07D879-3F6C-4C6E-A0EB-0C0533BCB8AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoDeExcecoes", "TratamentoDeExcecoes\TratamentoDeExcecoes.csproj", "{86B57C1C-13BE-45AE-B939-F68B335AD8B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0F07D879-3F6C-4C6E-A0EB-0C0533BCB8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F07D879-3F6C-4C6E-A0EB-0C0533BCB8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F07D879-3F6C-4C6E-A0EB-0C0533BCB8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B57C1C-13BE-45AE-B939-F68B335AD8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B57C1C-13BE-45AE-B939-F68B335AD8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B57C1C-13BE-45AE-B939-F68B335AD8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B57C1C-13BE-45AE-B939-F68B335AD8B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
